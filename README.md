@@ -1,3 +1,3 @@
 # fluentd-record-reformer
 
-logstash_formatとrecord_reformerの動作確認が行えます
+fluentdプラグインのrecord_reformerとlogstash_formatの動作確認が行えます
